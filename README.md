@@ -1,16 +1,17 @@
-### Hi there 👋
+**HELLO.**
+**IT'S ME, ADVAIT!**
 
-<!--
-**advaitambeskar/advaitambeskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the co-founder and C.T.O of [The Fitting Room](https://www.thefittingroom.tech). You can check our projects [here](https://github.com/TheFittingRoom).
 
-Here are some ideas to get you started:
+**About me**
+- I am learning French (language and cooking) and Continuous Learning Patterns in Artificial Intelligence.
+- I believe in design through purpose and impactful development.
+- I have a background in Distributed Systems, Computer Vision, Embedded Software and Robotics.
+- I enjoy classical music and 70s rock.
+- I studied Computer Science at UF and Electronics Engineering at the University of Mumbai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Social Media**
+
+<a href="https://www.linkedin.com/in/ambeskar/">
+  <img align="left" alt="Advait's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
