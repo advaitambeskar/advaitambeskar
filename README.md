@@ -1,6 +1,6 @@
-## HELLO.
+### HELLO.
 
-## IT'S ME, ADVAIT!
+### IT'S ME, ADVAIT!
 
 I am the co-founder and C.T.O at [The Fitting Room](https://www.thefittingroom.tech). You can check our projects [here](https://github.com/TheFittingRoom).
 
