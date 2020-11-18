@@ -17,7 +17,7 @@ I am the co-founder and C.T.O of [The Fitting Room](https://www.thefittingroom.t
 ### About me
 - In 2020, I am learning *French (language and cooking)* and slowly working towards building a LEGO City.
 - I believe in design through purpose and impactful development.
-- I enjoy classical music and 70s rock.
+- I enjoy classical music and 80s rock.
 - I studied Computer Science at UF and Electronics Engineering at the University of Mumbai.
 <br />
 
