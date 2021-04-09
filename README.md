@@ -4,8 +4,9 @@
 
 I am the co-founder and C.T.O of [The Fitting Room](https://www.thefittingroom.tech). You can check our projects [here](https://github.com/TheFittingRoom).
 
-<ul>
-  I am reachable via
+### Social Media
+I am reachable via
+<ul>  
   <li>
     <a href="https://www.linkedin.com/in/ambeskar/">LinkedIn</a>
   </li>
