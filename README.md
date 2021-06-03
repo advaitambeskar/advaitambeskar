@@ -8,7 +8,7 @@ I am the co-founder and C.T.O of [The Fitting Room](https://www.thefittingroom.t
 I am reachable via
 <ul>  
   <li>
-    <a href="https://www.linkedin.com/in/ambeskar/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/advaitambeskar/">LinkedIn</a>
   </li>
   <li>
     <a href="https://www.twitter.com/ambeskaradvait/">Twitter</a>
