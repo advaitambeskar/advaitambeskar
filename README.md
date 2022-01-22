@@ -12,9 +12,6 @@ I am reachable via
     <a href="https://www.twitter.com/ambeskaradvait/">Twitter</a>
   </li>
 </ul>
-<br />
-
-
 
 ### About me
 - In 2022, I am learning *French (language and cooking)* and slowly working towards building a LEGO City.
