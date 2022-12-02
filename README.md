@@ -1,6 +1,6 @@
 ### Hey! It's Advait
 
-I am the co-founder and C.T.O of [The Fitting Room](https://www.thefittingroom.tech). You can check our projects [here](https://github.com/TheFittingRoom).
+I am the [Director of Engineering at Buena](https://www.buena.life/). I was the C.T.O of [The Fitting Room](https://www.thefittingroom.tech). You can check our projects [here](https://github.com/TheFittingRoom).
 
 ### Social Media
 I am reachable via
@@ -18,4 +18,3 @@ I am reachable via
 - I believe in design through purpose and impactful development.
 - I enjoy classical music and rock.
 <br />
-
